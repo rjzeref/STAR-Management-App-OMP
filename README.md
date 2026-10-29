@@ -29,7 +29,7 @@ This project provides a platform with three types of users:
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/tushar-trivedi/Job-Search-Portal.git
+git clone (https://github.com/rjzeref/STAR-Management-App-OMP)
 cd Job-Search-Portal
 ```
 
